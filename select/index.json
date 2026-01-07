@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "愛の小さな歌",
+  "base_artist": "Moona Hoshinova",
+  "createdAt": "2026-01-07T06:34:03.605862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の小さな歌",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/01_愛の小さな歌_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の小さな歌 (Remastered ver.) - Ai no Chiisana Uta (Remastered ver.)",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/02_愛の小さな歌_(Remastered_ver.)_-_Ai_no_Chiisana_Uta_(Remastered_ver.)_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛の小さな歌 (Remastered ver.)",
+      "artist": "Moona Hoshinova",
+      "has_synced": false,
+      "path": "select/03_愛の小さな歌_(Remastered_ver.)_Moona_Hoshinova.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛の小さな歌 (Remastered ver.)",
+      "artist": "Hoshinova Moona",
+      "has_synced": true,
+      "path": "select/04_愛の小さな歌_(Remastered_ver.)_Hoshinova_Moona.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛の小さな歌",
+      "artist": "Moona Hoshinova",
+      "has_synced": false,
+      "path": "select/05_愛の小さな歌_Moona_Hoshinova.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の小さな歌",
+      "artist": "Moona Hoshinova",
+      "has_synced": false,
+      "path": "select/pl_01_愛の小さな歌_Moona_Hoshinova.txt"
+    }
+  ]
+}
